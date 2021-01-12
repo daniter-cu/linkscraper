@@ -1,4 +1,4 @@
-# Twitter-Project
+# Link Scraper
 Directions:
 - version: Python 3
 - pip install python-twitter on terminal
